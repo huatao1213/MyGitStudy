@@ -10,6 +10,7 @@ namespace MyConsoleTest
     {
         static void Main(string[] args)
         {
+            Console.Title = "我的测试";
             //Hua Tao is a bad good boy.
             Console.ReadLine();
         }
