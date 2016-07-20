@@ -4,4 +4,4 @@ Git is free software. good
 
 Hello, Ketty.
 
-Git tracks changes.
+Git tracks changes of files.
