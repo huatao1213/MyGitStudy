@@ -10,6 +10,7 @@ namespace MyConsoleTest
     {
         static void Main(string[] args)
         {
+            //Hua Tao is a good boy.
         }
     }
 }
