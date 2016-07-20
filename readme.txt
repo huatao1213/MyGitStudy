@@ -3,3 +3,5 @@ Git is free software. good
 华涛
 
 Hello, Ketty.
+
+Git tracks changes.
