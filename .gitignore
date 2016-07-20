@@ -1,2 +1,4 @@
 *.ini
 /MyGitStudySln/.vs/MyGitStudySln/v14
+/MyGitStudySln/MyConsoleTest/bin/Debug
+/MyGitStudySln/MyConsoleTest/obj/Debug
